@@ -55,6 +55,8 @@ folders in your project.
 angular-seed changes this location through the `.bowerrc` file.  Putting it in the app folder makes
 it easier to serve the files by a webserver.*
 
+**Pranay** If we get into error while running npm install, consider installing github and adding github bin and cmd paths to the system PATH variable (refer to http://www.chambaud.com/2013/07/08/adding-git-to-path-when-using-github-for-windows/)
+
 ### Run the Application
 
 We have preconfigured the project with a simple development web server.  The simplest way to start
@@ -273,6 +275,10 @@ CloudBees have provided a CI/deployment setup:
 If you run this, you will get a cloned version of this repo to start working on in a private git repo,
 along with a CI service (in Jenkins) hosted that will run unit and end to end tests in both Firefox and Chrome.
 
+### best practices
+http://www.thoughtworks.com/insights/blog/good-practices-build-your-angularjs-application
+### Tutorials
+https://medium.com/@dickeyxxx/best-practices-for-building-angular-js-apps-266c1a4a6917
 
 ## Contact
 
